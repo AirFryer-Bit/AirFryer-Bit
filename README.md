@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Geo
+I'm a 1st-year BS Computer Science & Data Science student based in the Philippines. Just starting my journey into the world of programming learning one line of code at a time.
 
-<!--
-**AirFryer-Bit/AirFryer-Bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I'm Learning
+C++ 
+Python 
+Java 
 
-Here are some ideas to get you started:
+🎯 My Goals
+Build small but meaningful projects
+Understand how code works under the hood
+Grow into a confident and creative developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Current Focus
+Strengthening core programming fundamentals
+Practicing clean and readable code structure
+Building confidence through hands-on coding projects
